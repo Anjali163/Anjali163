@@ -72,6 +72,12 @@
 
 > *"Every register matters. Every cycle counts. Build firmware that's correct, fast, and unbreakable."*
 
+
+
+
+
+> *"I Came, I C, I Conquered"*
+
 <br/>
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
