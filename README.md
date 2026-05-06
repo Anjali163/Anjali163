@@ -1,53 +1,15 @@
-<div align="center">
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm Mayur !
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0e3d6e,100:00d4ff&height=230&section=header&text=Mayur%20Madhukar%20Mane&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20CDAC%20PGCP-DESD%20%7C%20Sunbeam%20Institute%20Pune&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/heymayur69">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&lines=⚡+Firmware+Engineer+%7C+RTOS+Architect;🔧+STM32+%7C+ESP32+%7C+ARM+Cortex-M+Expert;🐧+Embedded+Linux+%7C+Kernel+Programming;📡+CAN+%7C+SPI+%7C+I²C+%7C+UART+from+Scratch;🛰️+Safety-Critical+%7C+Real-Time+%7C+Deterministic;⚙️+From+Bits+to+Real-World+Impact" alt="Typing SVG" />
-</a>
+<a href="https://linkedin.com/in/heymayur69"><img align="left" alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="22px"/></a>
+<a href="https://github.com/heymayur69"><img align="left" alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="22px"/></a>
+<a href="https://twitter.com/heymayur69"><img align="left" alt="twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="22px"/></a>
+<a href="mailto:mayurmm2004@gmail.com"><img align="left" alt="email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="22px"/></a>
 
 <br/><br/>
 
-<!-- PREMIUM SOCIAL BADGES -->
-<a href="https://linkedin.com/in/heymayur69">
-  <img src="https://img.shields.io/badge/LinkedIn-heymayur69-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="https://github.com/heymayur69">
-  <img src="https://img.shields.io/badge/GitHub-heymayur69-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="https://twitter.com/heymayur69">
-  <img src="https://img.shields.io/badge/Twitter-heymayur69-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="mailto:mayurmm2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-</a>
+Passionate **Embedded Systems Engineer** specializing in real-time systems, firmware development, and hardware-software integration. I love diving deep into microcontrollers, protocols, and making things work at the register level. Currently pursuing **PGCP-DESD** at **Sunbeam Institute, Pune (C-DAC)**.
 
-<br/><br/>
-
-<!-- PREMIUM VISITOR COUNTER DASHBOARD -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/👁️_PROFILE_VIEWS-_-00d4ff?style=for-the-badge&labelColor=0d1117" />
-      <br/>
-      <img src="https://komarev.com/ghpvc/?username=heymayur69&style=for-the-badge&color=00d4ff&label=TOTAL+VISITS&labelColor=161b22" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🌟_FOLLOWERS-_-0e9aff?style=for-the-badge&labelColor=0d1117" />
-      <br/>
-      <img src="https://img.shields.io/github/followers/heymayur69?style=for-the-badge&color=0e9aff&label=GITHUB+FOLLOWERS&labelColor=161b22&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/⭐_STARS_EARNED-_-FFD700?style=for-the-badge&labelColor=0d1117" />
-      <br/>
-      <img src="https://img.shields.io/github/stars/heymayur69?style=for-the-badge&color=FFD700&label=TOTAL+STARS&labelColor=161b22&logo=github&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-</div>
+<br/>
 
 ---
 
@@ -55,11 +17,12 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-<img align="right" alt="Coding" width="420" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" style="border-radius:12px;"/>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=heymayur69&label=Profile%20views&color=0e75b6&style=flat" alt="heymayur69" />
+</p>
 
-<br/>
-
-- 🔭 Currently building &nbsp;**Railway Accident Prevention System**
+- 🔭 Currently building &nbsp;**EMG-Based Multi-Device Human Machine Interface Platform**
 - 🌱 Mastering &nbsp;**RTOS · Embedded Linux · ASIC Design · VLSI Verification**
 - 💬 Ask me about &nbsp;**Embedded C · FreeRTOS · STM32 · ESP32 · ARM Cortex · CAN/SPI/I²C**
 - 🎓 Pursuing &nbsp;**PGCP-DESD** at **Sunbeam Institute, Pune (C-DAC)**
@@ -71,9 +34,6 @@
 <br/>
 
 > *"Every register matters. Every cycle counts. Build firmware that's correct, fast, and unbreakable."*
-
-
-
 
 
 > *"I Came, I C, I Conquered"*
@@ -227,40 +187,39 @@
 
 ---
 
-<!-- ══════════════════════════ GITHUB STATS ══════════════════════════ -->
 
-## 📊 GitHub Statistics & Activity
+  ## 📊 Github Statstics & Activity
 
-### 🔥 Streak Stats
+  <h3>🔥 Streak Stats</h3>
 
-<p align="center">
-  <a href="https://github.com/heymayur69/github-readme-streak-stats">
-    <img title="🔥 Streak Stats" alt="heymayur69 streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=heymayur69&theme=monokai-metallian&hide_border=true&short_numbers=true" width="540"/>
-  </a>
-</p>
+  <p>
+    <a href="https://github.com/heymayur69/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="heymayur69's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=heymayur69&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
 
-### 💻 GitHub Profile Stats & Top Languages
+  <h3>💻 GitHub Profile Stats</h3>
 
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=heymayur69&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="195px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=heymayur69&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="195px"/>
-  </a>
-</p>
+  <img alt="heymayur69's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=heymayur69&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="heymayur69's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=heymayur69&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
 
-<p align="center">
-  <sub><b>Note:</b> Top languages reflects public code composition, not experience or skill level.</sub>
-</p>
+  <br/>
 
-### 📈 Contribution Activity
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p align="center">
   <a href="https://github.com/heymayur69/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=heymayur69&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="100%"/>
+    <img alt="heymayur69's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=heymayur69&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
-</p>
+
+
+ 
+
+
+---
 
 ### 🏆 GitHub Trophies
 
@@ -270,54 +229,35 @@
 
 ---
 
-<!-- ══════════════════════════ COMPETENCIES ══════════════════════════ -->
-
 ## 🏆 Core Competencies
 
 <div align="center">
 
 | **Domain** | **Expertise** | **Level** |
 |:---:|:---|:---:|
-| 🎛️ Microcontroller Programming | STM32, ESP32, AVR, ARM Cortex-M bare-metal | ⭐⭐⭐⭐⭐ |
-| ⏰ Real-Time Systems | FreeRTOS, preemptive scheduling, IPC, semaphores | ⭐⭐⭐⭐⭐ |
-| 📡 Communication Protocols | UART, SPI, I²C, CAN from register level | ⭐⭐⭐⭐⭐ |
-| 🐧 Embedded Linux | Device drivers, kernel modules, bootloaders | ⭐⭐⭐⭐☆ |
-| 🔬 Hardware Debugging | Oscilloscope, logic analyzer, signal integrity | ⭐⭐⭐⭐⭐ |
-| 🧠 Low-Level Programming | Register manipulation, pointer arithmetic, memory | ⭐⭐⭐⭐⭐ |
-| 💡 IoT & Sensor Fusion | Multi-sensor, edge computing, cloud integration | ⭐⭐⭐⭐☆ |
-| 🔍 VLSI & RTL Design | Verilog, testbenches, ASIC design flow | ⭐⭐⭐☆☆ |
-| ⚡ System Programming | POSIX APIs, process/thread management, shell | ⭐⭐⭐⭐⭐ |
+| 🎛️ Microcontroller Programming | STM32, ESP32, AVR, ARM Cortex-M | ⭐⭐⭐⭐⭐ |
+| ⏰ Real-Time Systems | FreeRTOS, preemptive scheduling, IPC | ⭐⭐⭐⭐⭐ |
+| 📡 Communication Protocols | UART, SPI, I2C, CAN from scratch | ⭐⭐⭐⭐⭐ |
+| 🐧 Embedded Linux | Device drivers, kernel modules | ⭐⭐⭐⭐☆ |
+| 🔬 Hardware Debugging | Oscilloscope, signal integrity, timing | ⭐⭐⭐⭐⭐ |
+| 🧠 Low-Level Programming | Register manipulation, pointer arithmetic | ⭐⭐⭐⭐⭐ |
+| 💡 IoT & Sensors | Multi-sensor fusion, edge computing | ⭐⭐⭐⭐☆ |
+| 🔍 Problem Solving | Root cause analysis, optimization | ⭐⭐⭐⭐⭐ |
 
 </div>
 
 ---
 
-<!-- ══════════════════════════ CDAC LEARNING ══════════════════════════ -->
-
 ## 📚 Currently Learning @ CDAC
 
-<table width="100%">
-<tr>
-<td width="50%">
-
-- ✅ **RTOS Internals** — Task scheduling, synchronization, interrupt handling
-- ✅ **Embedded Linux** — Device drivers, kernel modules, bootloaders
-- ✅ **ASIC Design Flow** — RTL design, synthesis, place & route
-
-</td>
-<td width="50%">
-
-- ✅ **VLSI Verification** — Testbenches, simulation, formal verification
-- ✅ **Protocol Deep-Dives** — CAN, I²C, SPI, UART at hardware level
-- ✅ **Real-Time Systems** — Deterministic scheduling, priority inversion
-
-</td>
-</tr>
-</table>
+- ✅ **RTOS Internals** – Task scheduling, synchronization primitives, interrupt handling
+- ✅ **Embedded Linux** – Device drivers, kernel modules, bootloaders
+- ✅ **ASIC Design Flow** – RTL design, synthesis, place & route optimization
+- ✅ **VLSI Verification** – Testbenches, simulation, formal verification techniques
+- ✅ **Protocol Deep-Dives** – CAN, I2C, SPI, UART at hardware level
+- ✅ **Real-Time Systems** – Deterministic scheduling, priority inversion handling
 
 ---
-
-<!-- ══════════════════════════ CONNECT ══════════════════════════ -->
 
 ## 🌐 Connect With Me
 
@@ -332,31 +272,20 @@
 
 ---
 
-<!-- ══════════════════════════ SNAKE ══════════════════════════ -->
-
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heymayur69/heymayur69/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heymayur69/heymayur69/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/heymayur69/heymayur69/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/heymayur69/heymayur69/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e4d8a,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=540&lines=From+low-level+bits+to+real-world+impact+⚡;Turning+registers+into+reality+🔧;Build+fast.+Debug+faster.+Ship+firmware.+🚀" alt="Footer Typing"/>
+### **"From low-level bits to real-world impact"** 🚀
 
-<br/>
-
-*© 2026 Mayur Mane — Embedded Systems Engineer | CDAC PGCP-DESD*
+*Transforming embedded systems expertise into safer, smarter, and more efficient solutions*
 
 </div>
