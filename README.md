@@ -77,16 +77,6 @@ Passionate **Embedded Systems Engineer** specializing in real-time systems, firm
 
 ---
 
-## 📊 Github Stats
-
-<a href='https://github.com/heymayur69/github-stats-transparent'>
-
-![heymayur69's Stats](https://github-readme-stats.vercel.app/api?username=heymayur69&theme=transparent&show_icons=true&hide_border=true&count_private=true)
-![heymayur69's Languages](https://github-readme-stats.vercel.app/api/top-langs?username=heymayur69&theme=transparent&hide_border=true&layout=compact)
-
-</a>
-
-<br>
 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
