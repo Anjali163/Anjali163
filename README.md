@@ -116,6 +116,31 @@ Passionate **Embedded Systems Engineer** specializing in real-time systems, firm
   </a>
 
 
+  ## 📊 Github Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="heymayur69's Github Stats" src="https://github-readme-stats.vercel.app/api?username=heymayur69&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="heymayur69's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=heymayur69&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
+
+<br/>
+
+<details>
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+  <p>
+    <img alt="heymayur69's streak" src="https://streak-stats.demolab.com/?user=heymayur69&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+  </p>
+
+  <h3>📈 Activity Graph</h3>
+  <img alt="heymayur69's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=heymayur69&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+</details>
+
+
 ---
 
 ## 🏆 Core Competencies
