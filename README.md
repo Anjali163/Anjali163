@@ -6,8 +6,8 @@
 
 <br/><br/>
 
-Passionate **Software Testing Enthusiast** specializing in manual testing, QA engineering, and software quality assurance. I love diving deep into system behavior, finding bugs, and ensuring software works flawlessly. Currently a final-year **BE Electronics & Telecom** student at **Pune District Education Association College of Engineering**.
-
+I am a **BE Electronics & Telecom** graduate from **Pune District Education Association College of Engineering**.
+Passionate **Software Testing Enthusiast** specializing in manual testing, QA engineering, and software quality assurance. I love diving deep into system behavior, finding bugs, and ensuring software works flawlessly. 
 <br/>
 
 ---
@@ -21,10 +21,10 @@ Passionate **Software Testing Enthusiast** specializing in manual testing, QA en
 <img src="https://komarev.com/ghpvc/?username=Anjali163&label=Profile%20views&color=0e75b6&style=flat" alt="Anjali163" />
 </p>
 
-- 🔭 Currently building &nbsp;**Railway Accident Prevention System (RAPS)**
+- 🔭 Major project &nbsp;**Railway Accident Prevention System (RAPS)**
 - 🌱 Mastering &nbsp;**Selenium · Automation Testing · API Testing · SQL for QA**
 - 💬 Ask me about &nbsp;**Manual Testing · Test Case Writing · Bug Reporting · SDLC & STLC**
-- 🎓 Pursuing &nbsp;**BE in Electronics & Telecom Engineering** at **PDEA College of Engineering, Pune**
+- 🎓 Completed &nbsp;**BE in Electronics & Telecom Engineering** at **PDEA College of Engineering, Pune**
 - 🎯 Target &nbsp;**Software Testing Engineer · QA Engineer · Automation Tester**
 - 📫 Reach me at &nbsp;**anjalinanavare200@gmail.com**
 - ⚡ Fun fact &nbsp;**I find bugs before they find the users 😄**
