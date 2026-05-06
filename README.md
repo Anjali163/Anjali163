@@ -81,8 +81,8 @@ Passionate **Embedded Systems Engineer** specializing in real-time systems, firm
 
 <a href='https://github.com/heymayur69/github-stats-transparent'>
 
-![Stats Overview](https://raw.githubusercontent.com/heymayur69/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/heymayur69/github-stats-transparent/output/generated/languages.svg)
+![heymayur69's Stats](https://github-readme-stats.vercel.app/api?username=heymayur69&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+![heymayur69's Languages](https://github-readme-stats.vercel.app/api/top-langs?username=heymayur69&theme=transparent&hide_border=true&layout=compact)
 
 </a>
 
@@ -100,12 +100,12 @@ Passionate **Embedded Systems Engineer** specializing in real-time systems, firm
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <a href="https://github.com/heymayur69/github-readme-stats">
-    <img alt="heymayur69's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=heymayur69&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
-  <a href="https://github.com/heymayur69/github-readme-stats">
-    <img alt="heymayur69's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymayur69&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="heymayur69's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=heymayur69&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="heymayur69's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=heymayur69&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
 
   <br/>
 
