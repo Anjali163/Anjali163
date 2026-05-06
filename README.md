@@ -134,11 +134,11 @@ Focused on building **low-level firmware, real-time systems**, and **safety-crit
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heymayur69&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&border_radius=10)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heymayur69&show_icons=true&show_owner=true&count_private=true&theme=dark&bg_color=1a1b27&border_color=30363d&text_color=c9d1d9&title_color=58a6ff&icon_color=1f6feb&hide_border=false)](https://github.com/heymayur69)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=heymayur69&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&border_radius=10)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=heymayur69&layout=compact&theme=dark&bg_color=1a1b27&border_color=30363d&text_color=c9d1d9&title_color=58a6ff&hide_border=false)](https://github.com/heymayur69)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heymayur69&theme=dark&background=0d1117&border=ffffff00)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heymayur69&theme=dark-dimmed&background=1a1b27&border=30363d&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=79c0ff&sideLabelsBackground=0d1117&dates=8b949e)](https://github.com/heymayur69)
 
 </div>
 
