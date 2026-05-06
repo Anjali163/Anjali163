@@ -1,268 +1,301 @@
-# 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&height=60&lines=Hi👋+I'm+Mayur+Madhukar+Mane;Embedded+Systems+%26+VLSI+Engineer;CDAC+%7C+Firmware+%26+IoT+Specialist" alt="Typing SVG">
+
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d8a,100:00d4ff&height=220&section=header&text=Mayur%20Mane&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20CDAC%20PGCP-DESD&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/heymayur69">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=⚡+Firmware+Engineer+%7C+RTOS+Architect;🔧+STM32+%7C+ESP32+%7C+ARM+Cortex-M;🐧+Embedded+Linux+%7C+Kernel+Programming;🛰️+Low-Level+%7C+Real-Time+%7C+Deterministic;⚙️+From+Bits+to+Real-World+Impact" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- PREMIUM SOCIAL BADGES -->
+<p>
+  <a href="https://github.com/heymayur69">
+    <img src="https://img.shields.io/badge/GitHub-heymayur69-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://linkedin.com/in/heymayur69">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="mailto:mayurmm2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://twitter.com/heymayur69">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=heymayur69&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/heymayur69?style=for-the-badge&color=00d4ff&label=FOLLOWERS&labelColor=0d1117&logo=github&logoColor=white" />
+</p>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ═══════════════ ABOUT SECTION ═══════════════ -->
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-### 🔧 **Technical DNA**
+## `> whoami`
 
-Passionate **Embedded Systems Engineer** specializing in:
+```yaml
+name:     Mayur Madhukar Mane
+role:     Embedded Systems Engineer
+org:      CDAC | Sunbeam Institute, Pune
+degree:   B.E. — Electronics & Telecom (SPPU)
+focus:
+  - Firmware & Bare-metal Programming
+  - Real-Time OS (FreeRTOS)
+  - ARM Cortex-M Architecture
+  - Embedded Linux & Device Drivers
+  - Safety-Critical Systems
+vision:
+  - Semiconductor Industry
+  - Industrial Automation
+  - EV Components Engineering
+status:   Open to Embedded Roles ✅
+```
 
-- 🎯 **Real-Time Systems** – FreeRTOS, task scheduling, IPC
-- 📡 **Microcontroller Programming** – STM32F407, ESP32, ARM Cortex-M
-- 🐧 **Embedded Linux** – Device drivers, kernel modules, bootloaders
-- 🔌 **Hardware Protocols** – UART, SPI, I2C, CAN at register level
-- 🚀 **IoT & Sensors** – Multi-sensor fusion, edge computing
-- 🔍 **Low-Level Debugging** – GDB, oscilloscope analysis, root cause
+<br/>
 
-Currently pursuing **PGCP-DESD** at **Sunbeam Institute, Pune (C-DAC)**
+> *"I debug hardware faster than software.  
+> Every register matters. Every cycle counts."*
 
-**Vision:** Build safety-critical embedded systems → transition to semiconductor industry → entrepreneurship in industrial automation & EV components
+<br/>
 
-    </td>
-    <td width="50%" valign="top">
+**Currently @ CDAC:**
+- 🔲 RTOS Internals — preemptive scheduling, IPC, semaphores
+- 🔲 Device Drivers — Linux kernel modules, char drivers
+- 🔲 ASIC Design Flow — RTL, synthesis, P&R
+- 🔲 Protocol Deep-Dives — CAN, SPI, I2C at hardware level
+- 🔲 Bootloaders — U-Boot, bare-metal startup sequences
 
-<div align="center">
+</td>
+<td width="45%" valign="middle" align="center">
 
-[![Animated Developer](https://media.giphy.com/media/SWoRKslHVtqgMwv65l/giphy.gif)](https://github.com/heymayur69)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Developer Coding Animation" style="border-radius: 12px;"/>
 
-**🔬 Hardware-First Mindset**
+<br/><br/>
 
-*"Debug hardware faster than software bugs"*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heymayur69&theme=react-dark&bg_color=0d1117&color=00d4ff&line=0e4d8a&point=00d4ff&area=true&hide_border=true&area_color=0e4d8a" width="100%" alt="Activity Graph"/>
 
-- Register manipulation & memory optimization
-- Signal integrity & timing verification
-- Edge case handling & safety-critical design
-- Problem-solving through oscilloscope traces
-
-**⚡ Always Learning**
-- ASIC Design Flow
-- VLSI Verification
-- Protocol Deep-Dives
-- Real-Time Determinism
-
-</div>
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-## 💻 Tech Stack & Arsenal
+<!-- ═══════════════ TECH STACK ═══════════════ -->
 
 <div align="center">
 
-### **Core Programming Languages**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Embedded%20C](https://img.shields.io/badge/Embedded%20C-FF6B6B?style=for-the-badge&color=FF6B6B)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=verilog)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+## ⚡ Arsenal — Tech Stack
 
-### **Microcontrollers & Processors**
+</div>
 
-![ARM%20Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![STM32F4](https://img.shields.io/badge/STM32F407-03234B?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-E7352B?style=for-the-badge&logo=espressif&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR-FF6B35?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<!-- CORE EMBEDDED -->
+<details open>
+<summary><b>🔩 Core Embedded & Microcontrollers</b></summary>
+<br/>
+<div align="center">
 
-### **Real-Time & Operating Systems**
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino&theme=dark&perline=8" />
 
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008000?style=for-the-badge)
-![Embedded%20Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Linux%20Kernel](https://img.shields.io/badge/Linux%20Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![POSIX](https://img.shields.io/badge/POSIX-1F77B4?style=for-the-badge)
+<br/><br/>
 
-### **Communication Protocols**
+| <img src="https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white&labelColor=0d1117"/> | <img src="https://img.shields.io/badge/STM32F4xx-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=00d4ff&labelColor=0d1117"/> | <img src="https://img.shields.io/badge/ESP32-E7352B?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0d1117"/> | <img src="https://img.shields.io/badge/AVR--ATmega-FF6B35?style=for-the-badge&logoColor=white&labelColor=0d1117"/> |
+|:-:|:-:|:-:|:-:|
+| **ARM Cortex-M** | **STM32F4xx** | **ESP32** | **AVR / ATmega** |
 
-![UART](https://img.shields.io/badge/UART-1F77B4?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-1F77B4?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C-1F77B4?style=for-the-badge)
-![CAN%20Bus](https://img.shields.io/badge/CAN%20Bus-E34C26?style=for-the-badge)
-![PWM](https://img.shields.io/badge/PWM-3572A5?style=for-the-badge)
-![ADC/DAC](https://img.shields.io/badge/ADC%2FDAC-3572A5?style=for-the-badge)
+</div>
+</details>
 
-### **Development Tools & Frameworks**
+<br/>
 
-![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge)
-![HAL%20Drivers](https://img.shields.io/badge/HAL%20Drivers-03234B?style=for-the-badge)
-![Keil%20uVision](https://img.shields.io/badge/Keil%20uVision-FF6B35?style=for-the-badge)
-![GNU%20GCC](https://img.shields.io/badge/GNU%20GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![GDB/LLDB](https://img.shields.io/badge/GDB%2FLLDB-3572A5?style=for-the-badge)
-![Make](https://img.shields.io/badge/Make-A1B612?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019833?style=for-the-badge&logo=vim&logoColor=white)
+<!-- PROTOCOLS -->
+<details open>
+<summary><b>📡 Communication Protocols & Interfaces</b></summary>
+<br/>
+<div align="center">
 
-### **IoT & Sensor Technologies**
+| Protocol | Level | Badge |
+|:---:|:---:|:---:|
+| UART | Hardware + Interrupt | <img src="https://img.shields.io/badge/UART-■■■■■-00d4ff?style=flat-square&labelColor=0d1117"/> |
+| SPI | Bare-metal + HAL | <img src="https://img.shields.io/badge/SPI-■■■■■-00d4ff?style=flat-square&labelColor=0d1117"/> |
+| I²C | Register Level | <img src="https://img.shields.io/badge/I²C-■■■■□-0e9aff?style=flat-square&labelColor=0d1117"/> |
+| CAN Bus | Protocol Stack | <img src="https://img.shields.io/badge/CAN-■■■■□-0e9aff?style=flat-square&labelColor=0d1117"/> |
+| PWM / ADC / DAC | Timer Config | <img src="https://img.shields.io/badge/PWM%2FADC-■■■■■-00d4ff?style=flat-square&labelColor=0d1117"/> |
 
-![LiDAR](https://img.shields.io/badge/LiDAR-4169E1?style=for-the-badge)
-![Ultrasonic](https://img.shields.io/badge/Ultrasonic%20Sensors-4169E1?style=for-the-badge)
-![IR%20Sensors](https://img.shields.io/badge/IR%20Sensors-4169E1?style=for-the-badge)
-![Accelerometer](https://img.shields.io/badge/Accelerometer-4169E1?style=for-the-badge)
-![IoT%20Protocols](https://img.shields.io/badge/IoT%20Protocols-FF6B6B?style=for-the-badge)
+</div>
+</details>
+
+<br/>
+
+<!-- RTOS & LINUX -->
+<details open>
+<summary><b>🐧 Real-Time OS & Embedded Linux</b></summary>
+<br/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,vim,git&theme=dark&perline=8" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FreeRTOS-Multitasking_•_IPC_•_Scheduling-008000?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Embedded_Linux-Drivers_•_Kernel_•_Bootloader-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/POSIX-Threads_•_Signals_•_IPC-1F77B4?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+
+</div>
+</details>
+
+<br/>
+
+<!-- TOOLS -->
+<details open>
+<summary><b>🛠️ Development Tools & Debugging</b></summary>
+<br/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,github&theme=dark&perline=8" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Keil_µVision-FF6B35?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GNU_GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GDB_%2F_LLDB-3572A5?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Oscilloscope-Signal_Integrity-00d4ff?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Make_%2F_CMake-A1B612?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+
+</div>
+</details>
+
+---
+
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+
+<div align="center">
+
+## 📊 GitHub Metrics
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0e2a4a&height=4" width="100%"/>
+
+<br/>
+
+<!-- TOP ROW: Stats + Streak side by side -->
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=heymayur69&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=21262d&border_radius=12&hide_border=false&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats"/>
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=heymayur69&theme=github-dark-blue&background=0d1117&border=21262d&stroke=00d4ff&ring=0e4d8a&fire=00d4ff&currStreakNum=00d4ff&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&border_radius=12" height="195" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- MOST USED LANGUAGES — FULL WIDTH, STYLED -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymayur69&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_color=21262d&border_radius=12&langs_count=8&hide_border=false" height="180" alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- TROPHY ROW -->
+<img src="https://github-profile-trophy.vercel.app/?username=heymayur69&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="100%" alt="Trophies"/>
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
-
-### 🚄 **Railway Accident Prevention System (RAPS)**
-
-> *Safety-critical IoT system demonstrating real-time embedded architecture*
-
-**Tech:** ESP32 • Arduino Uno • FreeRTOS • LiDAR • Ultrasonic • IR Sensors
-
-**Highlights:**
-- ⚡ **Real-time multitasking** using FreeRTOS dual-core scheduler with priority-based task management
-- 📡 **Sensor fusion architecture** combining LiDAR, ultrasonic, and IR for robust obstacle detection
-- 🔄 **UART inter-device communication** between ESP32 and Arduino Uno with reliability checksums
-- ☁️ **Cloud integration** for real-time alerts and historical data analytics
-- 💡 **Low-power optimization** with intelligent sleep modes and interrupt-driven event handling
-
-**Impact:** Demonstrates advanced embedded systems principles in safety-critical railway domain
-
----
-
-### 💾 **SPI-Based Accelerometer Driver (HAL_SPI_ACCLE_BM)**
-
-> *Production-grade LIS3DSH driver with HAL & bare-metal implementations*
-
-**Tech:** STM32F407 Discovery Board • SPI Protocol • HAL Drivers • UART Debug
-
-**Highlights:**
-- 🔧 **HAL SPI initialization** with clock configuration, mode setup, and DMA optimization
-- 📊 **Register-level programming** for LIS3DSH sensor data acquisition and calibration
-- 🎛️ **Real-time threshold control** with GPIO interrupt handling and LED feedback
-- 🐛 **UART debug output** for live sensor telemetry and signal validation
-- 🔍 **Hardware debugging** expertise with oscilloscope trace analysis and timing verification
-
-**Impact:** Production-ready driver with complete documentation and test coverage
-
----
-
-### 🛠️ **Embedded Linux & System Programming**
-
-**Shell Scripting & Automation:**
-- Advanced bash scripting (17-problem assignment mastery)
-- Linux CLI proficiency with sed, awk, grep, find utilities
-- System automation for process management and file operations
-- Custom build notification system for GCC errors and USB events
-
----
-
-## 📚 Currently Learning @ CDAC
-
-- ✅ **RTOS Internals** – Task scheduling, synchronization primitives, interrupt handling
-- ✅ **Embedded Linux** – Device drivers, kernel modules, bootloaders
-- ✅ **ASIC Design Flow** – RTL design, synthesis, place & route optimization
-- ✅ **VLSI Verification** – Testbenches, simulation, formal verification techniques
-- ✅ **Protocol Deep-Dives** – CAN, I2C, SPI, UART at hardware level
-- ✅ **Real-Time Systems** – Deterministic scheduling, priority inversion handling
-
----
-
-## 📊 GitHub Statistics & Contributions
+<!-- ═══════════════ LEARNING ═══════════════ -->
 
 <div align="center">
 
-### 📈 **Activity Metrics**
+## 🎓 Currently Learning @ CDAC
 
-| Metric | Value |
-|--------|-------|
-| **Total Contributions** | 63+ |
-| **Current Status** | 🟢 Active |
-| **Longest Streak** | 4 days |
-| **Public Repositories** | 15+ |
-| **GitHub Followers** | Growing 📈 |
+</div>
 
-### 💾 **Primary Languages**
+<table width="100%">
+<tr>
+<td width="50%" align="center">
 
-| Language | Usage |
-|----------|-------|
-| **C / Embedded C** | 45% |
-| **Python** | 30% |
-| **Bash / Shell** | 20% |
-| **Verilog / HDL** | 5% |
+<img src="https://img.shields.io/badge/✅_RTOS_Internals-Task_Scheduling_•_Semaphores_•_Mutexes-008000?style=for-the-badge&labelColor=0d1117"/>
 
-### 📊 **GitHub Stats Card**
-[![heymayur69 GitHub Stats](https://github-readme-stats.vercel.app/api?username=heymayur69&show_icons=true&count_private=true&theme=tokyonight&hide_title=true&bg_color=0D1117&text_color=C9D1D9&border_color=30363D)](https://github.com/heymayur69)
+<br/><br/>
 
-### 🔥 **Contribution Streak**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heymayur69&theme=tokyonight&background=0D1117&ring=00FF00&stroke=30363D&currStreakLabel=00FF00)](https://github.com/heymayur69)
+<img src="https://img.shields.io/badge/✅_Embedded_Linux-Device_Drivers_•_Kernel_Modules_•_U--Boot-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/✅_ASIC_Design-RTL_•_Synthesis_•_Place_%26_Route-9B59B6?style=for-the-badge&labelColor=0d1117"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/✅_Protocol_Mastery-CAN_•_SPI_•_I2C_•_UART_Hardware_Level-0e9aff?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/✅_VLSI_Verification-Testbenches_•_Simulation_•_Formal_Methods-E91E63?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/✅_Real--Time_Systems-Deterministic_Scheduling_•_Priority_Inversion-FF6B35?style=for-the-badge&labelColor=0d1117"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════ LOOKING FOR ═══════════════ -->
+
+<div align="center">
+
+## 🎯 Open To
+
+<img src="https://img.shields.io/badge/Firmware_Engineer-Available-00d4ff?style=for-the-badge&logo=arm&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Embedded_Systems_Engineer-Available-00d4ff?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/RTOS_Developer-Available-00d4ff?style=for-the-badge&logo=freebsd&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/VLSI_%2F_Semiconductor-Exploring-9B59B6?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
 ---
 
-## 🏆 Core Competencies
+<!-- ═══════════════ SNAKE ═══════════════ -->
 
 <div align="center">
 
-| **Domain** | **Expertise** | **Mastery Level** |
-|:---:|:---|:---:|
-| 🎛️ **Microcontroller Programming** | STM32, ESP32, AVR, ARM Cortex-M | ⭐⭐⭐⭐⭐ |
-| ⏰ **Real-Time Systems** | FreeRTOS, preemptive scheduling, IPC | ⭐⭐⭐⭐⭐ |
-| 📡 **Communication Protocols** | UART, SPI, I2C, CAN from scratch | ⭐⭐⭐⭐⭐ |
-| 🐧 **Embedded Linux** | Device drivers, kernel modules | ⭐⭐⭐⭐☆ |
-| 🔬 **Hardware Debugging** | Oscilloscope, signal integrity, timing | ⭐⭐⭐⭐⭐ |
-| 🧠 **Low-Level Programming** | Register manipulation, pointer arithmetic | ⭐⭐⭐⭐⭐ |
-| 💡 **IoT & Sensors** | Multi-sensor fusion, edge computing | ⭐⭐⭐⭐☆ |
-| 🔍 **Problem Solving** | Root cause analysis, optimization | ⭐⭐⭐⭐⭐ |
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heymayur69/heymayur69/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heymayur69/heymayur69/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heymayur69/heymayur69/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e4d8a,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heymayur69)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heymayur69)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heymayur69)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurmm2004@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=From+low-level+bits+to+real-world+impact+⚡;Turning+registers+into+reality+🔧;Build+fast.+Debug+faster.+Ship+firmware.+🚀" alt="Footer Typing"/>
 
-</div>
+<br/>
 
----
-
-## 🎯 What I'm Looking For
-
-- **Embedded Systems Roles** – Firmware Engineer, Embedded Systems Engineer, RTOS Developer
-- **IoT & Automation** – Smart device development, industrial automation, real-time monitoring
-- **Semiconductor & VLSI** – Backend engineering, chip design, verification roles
-- **Collaborative Teams** – Strong mentors, learning-focused culture, technical challenges
-
----
-
-## 🐍 GitHub Contribution Animation
-
-<div align="center">
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/heymayur69/heymayur69/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### **"From low-level bits to real-world impact"** 🚀
-
-*Transforming embedded systems expertise into safer, smarter, and more efficient solutions*
-
-**Last Updated:** 2026 | Building embedded excellence 🔨
+*© 2026 Mayur Mane — Embedded Systems Engineer | CDAC PGCP-DESD*
 
 </div>
