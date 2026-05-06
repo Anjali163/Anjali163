@@ -79,32 +79,31 @@ Passionate **Embedded Systems Engineer** specializing in real-time systems, firm
 
 ## 📊 Github Stats
 
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/heymayur69/github-stats-transparent'>
 
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/heymayur69/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/heymayur69/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
 <br>
 
-<details>
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
 
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="https://github.com/heymayur69/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="heymayur69's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=heymayur69&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/heymayur69/github-readme-stats">
     <img alt="heymayur69's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=heymayur69&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/heymayur69/github-readme-stats">
     <img alt="heymayur69's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymayur69&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>
 
@@ -112,11 +111,10 @@ Passionate **Embedded Systems Engineer** specializing in real-time systems, firm
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/heymayur69/github-readme-activity-graph">
     <img alt="heymayur69's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=heymayur69&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
 
-</details>
 
 ---
 
