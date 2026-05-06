@@ -5,7 +5,8 @@
 
 ---
 
-<p  align="center"><img height="380" src = "https://github.com/Bhard27/Bhard27/blob/master/mee.gif"></p>
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 ## 👨‍💻 About Me
 
